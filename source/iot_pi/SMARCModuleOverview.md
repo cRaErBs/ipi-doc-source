@@ -9,6 +9,5 @@ The Modules are used with application specific Carrier Boards that implement oth
 
 The module power envelope is typically under 10W ad and the form factor is ideal for applications that mandate designs able to withstand extreme environmental conditions.
 
-test
 
 *SMARC is based on the ULP-COM form factor which was introduced by the companies Kontron and Adlink in 2011. During the specification process by the SGET the standard was renamed to SMARC.*
