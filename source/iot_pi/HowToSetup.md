@@ -2,4 +2,4 @@
 2) Connect the mouse, keyboard, HDMI display and LAN cable
 3) Connect the power supply
 4) Press the power button
-5) the boot screen should be visible on the connected display
+5) The boot screen should be visible on the connected display
