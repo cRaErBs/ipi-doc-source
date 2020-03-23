@@ -10,6 +10,6 @@ Before going to setup or installation chapter please verify the contents of your
 
 
 1. Industrial -Pi SMARC development kit containing the carrier and SMARC LEC-PX30 SoM pre-assembled in a chassis 
-2. 12Vdc /2A Power adapter with barrel connector 
+2. 12Vdc /2A Power adapter with barrel connector (picture illustrates the US version, an EU version is also available)
 3. micro USB to Type A cable for OTG connection 
 4. micro-SD card with adapter (32 GB) 
