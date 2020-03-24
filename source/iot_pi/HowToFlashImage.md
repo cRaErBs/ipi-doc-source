@@ -90,7 +90,5 @@ then, click the **Create** button to start the process.
 * Eject the SD card and insert it into the LEC-PX30 board and power on the board to boot up.
 
 
-//Now, remove the SDcard and insert it into the SDcard slot on the carrier.
-
 **Note**: There is no need to configure the boot selector of the **LEC-PX30 with Industrial-Pi** for booting from the SD Card. You can directly insert the SD card and power on the system.
 
